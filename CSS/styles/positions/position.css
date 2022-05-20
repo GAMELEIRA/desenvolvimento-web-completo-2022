@@ -1,0 +1,38 @@
+body {
+    background: #000
+}
+.container {
+    background: #fff;
+    width: 800px;
+    margin: 10px auto;
+}
+
+h1 {
+    position: static;
+}
+
+p {
+    position: static;
+    width: 300px;
+}
+
+.relative {
+    /*top, right bottom e left*/
+    position: relative;
+    top: 50px;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.fixed {
+    position: fixed;
+}
+
+/**
+STATIC = Mantem posicao do elemento de acordo com a organizacao
+RELATIVE = Permite a manutencao do elemento baseado em sua posicao inicial
+ABSOLUTE = Permite a manutencao do elemento baseado no container que possui posicao 
+FIXED = Permite a manutencao do elemento fazendo com que ele fique fixo baseado na tela do seu computador
+*/

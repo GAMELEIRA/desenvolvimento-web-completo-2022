@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+}
+
+/*LINKS NAO VISITADOS*/
+a:link {
+    color: yellow;
+}
+
+/*LINKS VISITADOS*/
+a:visited {
+    color: blue;
+}
+
+/* PASSA O CURSOR */
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: aqua;
+}
+

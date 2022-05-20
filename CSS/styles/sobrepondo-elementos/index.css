@@ -1,0 +1,21 @@
+#quadrado-um {
+    background: red;
+    border: 1px solid yellow;
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+}
+
+#quadrado-dois {
+    background: green;
+    border: 1px solid pink;
+    width: 100px;
+    height: 100px;
+    z-index: 2;
+    top: 40px;
+    left: 40px;
+}
+
+.absolute {
+    position: absolute;
+}
