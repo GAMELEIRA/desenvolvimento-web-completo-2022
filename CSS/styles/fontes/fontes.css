@@ -1,0 +1,21 @@
+p {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.negrito {
+    /*normal, bold, 100 ate 900*/
+    font-weight: 100;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.formatacao {
+    text-decoration: overline;
+}
+
+.texto {
+    font: bold 40px "Lucida Sans Unicode", "Lucida Grande", sans-serif;  
+}

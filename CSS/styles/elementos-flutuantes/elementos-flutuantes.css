@@ -1,0 +1,44 @@
+.container {
+    border: 1px solid red;
+    width: 100%;
+}
+
+#conteudo-2 {
+    color: white;
+    background: blue;
+    border: 0px solid gray;
+    width: 33.33%;
+    height: 33.33%;
+    float: left;
+}
+
+#conteudo-5 {
+    color: white;
+    background: blue;
+    border: 0px solid gray;
+    width: 33.33%;
+    height: 33.33%;
+    float: left;
+}
+
+.conteudo {
+    color: white;
+    background: blue;
+    border: 0px solid gray;
+    width: 33.33%;
+    height: 33.33%;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+/* .conteudo1 {
+    color: white;
+    background: blue;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    float: right;
+} */

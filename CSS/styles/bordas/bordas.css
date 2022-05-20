@@ -1,0 +1,10 @@
+#conteudo {
+    border: 1px solid red ;
+    /*Tamanho tipo cor*/
+}
+
+p {
+    border-color: red blue;
+    border-width: 15px 15px 15px 15px;
+    border-style: solid;
+} 

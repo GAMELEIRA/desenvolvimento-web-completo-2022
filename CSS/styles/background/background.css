@@ -1,0 +1,11 @@
+body {
+    background-color: blue;
+    background-image: url('./image/yoshi.png');
+    background-repeat: repeat-x;
+    background-attachment: fixed; /*FIXA A IMAGEM*/
+    background-position: left center;
+}
+
+body {
+    /* background: blue url('./image/yoshi.png');
+} */
