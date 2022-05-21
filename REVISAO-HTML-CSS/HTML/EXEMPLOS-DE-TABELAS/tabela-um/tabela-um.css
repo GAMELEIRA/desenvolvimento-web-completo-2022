@@ -1,0 +1,11 @@
+.table {
+    display: inline-block;
+    background: #ff0;
+    border: 1px solid black;
+    color: #000;
+}
+
+.table td, th {
+    border: 0.5px solid black;
+    border-radius: 5px;
+}
